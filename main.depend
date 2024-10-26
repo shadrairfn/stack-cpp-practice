@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729929930 source:d:\kuliah semester 3\praktikum struktur data\modul 7\main\main.cpp
+	<iostream>
+	"stack.h"
+
+1729929941 d:\kuliah semester 3\praktikum struktur data\modul 7\main\stack.h
+	<iostream>
+
+1729930376 source:d:\kuliah semester 3\praktikum struktur data\modul 7\main\stack.cpp
+	"stack.h"
+	<iostream>
+
